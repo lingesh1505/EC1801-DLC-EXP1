@@ -126,7 +126,8 @@ o	F
 6.	Verify that F = 0 whenever B and D are different.
 The waveform should agree with the truth table.
 ## OUTPUT
-<img width="1366" height="1157" alt="output" src="https://github.com/user-attachments/assets/9618c2ce-ce32-4d4a-919c-5a2e258b17db" />
+
+<img width="1365" height="970" alt="output" src="https://github.com/user-attachments/assets/93937968-a4bd-40a0-a613-4d9ea5e8d98b" />
 
 ### Expected Result
 The Boolean function
